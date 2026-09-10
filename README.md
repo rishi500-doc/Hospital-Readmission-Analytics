@@ -207,20 +207,6 @@ readmission_analysis/
 3. Open `notebooks/hospital_readmission_eda.ipynb`, update DB credentials in Cell 1, run all cells
 4. Open `reports/hospital_readmission_dashboard.pbix` in Power BI Desktop
 
----
-
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi500-doc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi500-doc&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishi500-doc&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
