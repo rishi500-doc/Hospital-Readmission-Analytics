@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=00897B&text=Hospital%20Patient%20Readmission%20Analysis&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MySQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Healthcare%20Analytics&descAlignY=62&descSize=18&descColor=d1fae5" alt="Hospital Patient Readmission Analysis Banner" width="100%">
 </p>
 
-# 🏥 Hospital Patient Readmission Analysis
-
 A data analytics project examining **99,000+ diabetic patient encounters** from 130 U.S. hospitals (1999–2008) to identify patterns associated with 30-day readmissions, using a full pipeline from raw MySQL data through Python EDA and statistical testing to an interactive Power BI dashboard.
 
 ---
